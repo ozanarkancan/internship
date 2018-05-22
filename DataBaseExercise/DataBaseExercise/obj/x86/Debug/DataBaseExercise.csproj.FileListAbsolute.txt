@@ -1,0 +1,19 @@
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\DataBaseExercise.exe
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\DataBaseExercise.pdb
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\MongoDB.Bson.dll
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\MongoDB.Driver.dll
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\MongoDB.Bson.pdb
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\MongoDB.Bson.xml
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\MongoDB.Driver.pdb
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\bin\Debug\MongoDB.Driver.xml
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.Form1.resources
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.Properties.Resources.resources
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.exe
+C:\Users\eozacan\Desktop\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.pdb
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.exe
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.pdb
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.exe
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\DataBaseExercise\DataBaseExercise\obj\x86\Debug\DataBaseExercise.pdb

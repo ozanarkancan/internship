@@ -1,0 +1,8 @@
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\bin\Debug\Stateless.dll
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\bin\Debug\Stateless.pdb
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\bin\Debug\Stateless.xml
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\obj\x86\Debug\StateMachine.exe
+C:\Users\eozacan\Desktop\StateMachine\StateMachine\obj\x86\Debug\StateMachine.pdb

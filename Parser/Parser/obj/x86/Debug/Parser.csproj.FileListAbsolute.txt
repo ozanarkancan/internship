@@ -1,0 +1,18 @@
+C:\Users\eozacan\Desktop\Parser\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\Parser\Parser\obj\x86\Debug\Parser.csproj.ResolveComReference.cache
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\MongoDB.Bson.dll
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\MongoDB.Driver.dll
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\MongoDB.Bson.pdb
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\MongoDB.Bson.xml
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\MongoDB.Driver.pdb
+C:\Users\eozacan\Desktop\Parser\Parser\bin\Debug\MongoDB.Driver.xml
+C:\Users\eozacan\Desktop\Parser\Parser\obj\x86\Debug\Parser.exe
+C:\Users\eozacan\Desktop\Parser\Parser\obj\x86\Debug\Parser.pdb
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\Parser\Parser\obj\x86\Debug\Parser.csproj.ResolveComReference.cache
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\Parser\Parser\obj\x86\Debug\Parser.exe
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\Parser\Parser\obj\x86\Debug\Parser.pdb
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\Parser\Parser\obj\x86\Debug\Parser.csproj.ResolveComReference.cache
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\Parser\Parser\obj\x86\Debug\Parser.exe
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\Parser\Parser\obj\x86\Debug\Parser.pdb

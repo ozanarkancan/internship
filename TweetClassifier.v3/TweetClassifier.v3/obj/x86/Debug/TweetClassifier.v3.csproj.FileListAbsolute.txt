@@ -1,0 +1,36 @@
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.Main.resources
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.Properties.Resources.resources
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\TweetClassifier.v3.exe
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\TweetClassifier.v3.pdb
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Bson.dll
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Driver.dll
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Bson.pdb
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Bson.xml
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Driver.pdb
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Driver.xml
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.exe
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.pdb
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.PerceptronForm.resources
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.MultiLayerPerceptronForm.resources
+C:\Users\eozacan\Desktop\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.NaiveBayesForm.resources
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.exe
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.pdb
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\TweetClassifier.v3.exe
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\TweetClassifier.v3.pdb
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Bson.pdb
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Bson.xml
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Driver.pdb
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\bin\Debug\MongoDB.Driver.xml
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.Main.resources
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.MultiLayerPerceptronForm.resources
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.NaiveBayesForm.resources
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.PerceptronForm.resources
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.Properties.Resources.resources
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OZAN\Desktop\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.exe
+D:\bilgi\uni what i have done\STAJJJJ\Uygulamalar\TweetClassifier.v3\TweetClassifier.v3\obj\x86\Debug\TweetClassifier.v3.pdb

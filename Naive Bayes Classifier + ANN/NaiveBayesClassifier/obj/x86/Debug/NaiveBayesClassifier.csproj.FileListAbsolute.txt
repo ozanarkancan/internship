@@ -1,0 +1,47 @@
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.pdb
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.dll
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.dll
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.pdb
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.xml
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.pdb
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.xml
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Form1.resources
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Properties.Resources.resources
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.pdb
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.pdb
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.pdb
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.dll
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.dll
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.pdb
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.xml
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.pdb
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.xml
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Form1.resources
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Properties.Resources.resources
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eozacan\Desktop\a\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.pdb
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.pdb
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.dll
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.dll
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.pdb
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\MongoDB.Bson.xml
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.pdb
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\bin\Debug\MongoDB.Driver.xml
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Form1.resources
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Properties.Resources.resources
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eozacan\Desktop\Naive Bayes Classifier\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eozacan\Desktop\Naive Bayes Classifier + ANN\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.exe
+C:\Users\eozacan\Desktop\Naive Bayes Classifier + ANN\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.pdb
